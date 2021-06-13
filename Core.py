@@ -41,7 +41,7 @@ TODO:
         2. Only independent current sources are supported.
         
     -Higher level of integration:
-        1. Non-linear devices needs to be integrated.
+        1. Non-linear devices need to be integrated.
         2. Iterative loops for different analysis types [Core in the loop].        
 """
 
